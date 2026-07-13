@@ -1,7 +1,7 @@
 ## Resume Uploader Django Project
 
 
-
+ 
 ### Highlights:
 * Radio Button
 * Multiple Checkbox
